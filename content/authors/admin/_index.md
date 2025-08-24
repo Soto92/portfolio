@@ -36,16 +36,12 @@ profiles:
   - icon: at-symbol
     url: "mailto:mauricioasoto@gmail.com"
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/msoto92
   - icon: brands/github
     url: https://github.com/soto92
   - icon: brands/linkedin
-    url: hhttps://linkedin.com/in/mauricio-soto-frontend/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://linkedin.com/in/mauricio-soto-frontend/
 
 interests:
   - Web & Mobile Development
