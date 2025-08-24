@@ -1,0 +1,5 @@
+{{/* Safe override of date display */}} {{ with .Date }}
+<span class="text-sm text-gray-500">
+  {{ . | time.Format "Jan 02, 2006" }}
+</span>
+{{ end }}

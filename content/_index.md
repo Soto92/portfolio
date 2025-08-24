@@ -36,14 +36,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: "📚 My Research"
+      title: "🏖️ My Hobbies"
       subtitle: ""
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a proud father of two amazing sons, and I love spending quality time playing and exploring the world with them.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
+        In my free time, I enjoy video games, especially story-driven or collaborative games with friends, such as The Witcher 3, Street Fighter, Microsoft Flight Simulator, Gears of War, and other team-based games.
 
-        Please reach out to collaborate 😃
+        I’m passionate about traveling and discovering new places with my family, experiencing different cultures, and creating memories together. Exploring the world and sharing these adventures with my loved ones is one of my greatest joys. 😃
+
+        ![Mauricio with his family](family.png)
     design:
       columns: "1"
   - block: collection
@@ -67,16 +69,16 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+  # - block: collection
+  #   id: talks
+  #   content:
+  #     title: Recent & Upcoming Talks
+  #     filters:
+  #       folders:
+  #         - event
+  #   design:
+  #     view: article-grid
+  #     columns: 1
   - block: collection
     id: news
     content:
