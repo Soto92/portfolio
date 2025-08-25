@@ -1,6 +1,6 @@
 ---
 title: "Software Design: Tactical or Strategic Programming? (Reviewed, Version 2)"
-date: "2025-08-24"
+date: "2020-08-24"
 featured: true
 draft: false
 description: "Exploring the balance between tactical and strategic programming in software design: how to handle complexity, dependencies, and long-term sustainability."
@@ -19,13 +19,9 @@ authors:
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  filename: "brownfield.jpg"
+  filename: "engineer.png"
   focal_point: "center"
 ---
-
-# Software Design: Tactical or Strategic Programming?
-
-![engineer](engineer.png)
 
 Software Design aims to isolate complexity and simplify code, making it easier to fix, maintain, and reuse in the future.
 
