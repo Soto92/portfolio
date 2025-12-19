@@ -1,6 +1,7 @@
 ---
 title: "The React Native 'Mixed Bag': Gotchas I Learned the Hard Way"
-date: 2025-12-18
+date: 2025-12-17
+publishDate: 2025-12-18
 draft: false
 featured: true
 tags:

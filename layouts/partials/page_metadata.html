@@ -1,0 +1,5 @@
+{{/* OVERRIDE Hugo Blox – safe date format */}} {{ with .Date }}
+<div class="page-metadata text-sm text-gray-500">
+  {{ time.Format ":date_long" . }}
+</div>
+{{ end }}
