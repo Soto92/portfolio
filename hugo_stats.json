@@ -98,7 +98,6 @@
       "block",
       "blox-collection",
       "blox-markdown",
-      "blox-resume-awards",
       "blox-resume-biography-3",
       "blox-resume-experience",
       "blox-resume-languages",
@@ -660,7 +659,6 @@
     "ids": [
       "-click-here-to-become-a-sponsor-and-help-support-hugo-blox",
       "-games",
-      "-games-1",
       "-movies",
       "-tv-series",
       "1-build-parsers-and-models",
@@ -752,7 +750,6 @@
       "regex-and-lookbehind",
       "section-collection",
       "section-markdown",
-      "section-resume-awards",
       "section-resume-biography-3",
       "section-resume-experience",
       "section-resume-languages",
