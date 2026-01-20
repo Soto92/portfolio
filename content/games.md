@@ -11,7 +11,6 @@ Games that I really enjoy, especially those with strong **stories, deep worlds, 
 ## 🕹️ Games
 
 - **God of War (Norse Saga)**
-
   - [God of War (2018) – Steam](https://store.steampowered.com/app/1593500/)
   - [God of War Ragnarök – Steam](https://store.steampowered.com/app/2322010/)
 
@@ -24,6 +23,8 @@ Games that I really enjoy, especially those with strong **stories, deep worlds, 
 - **[Streets of Rage 4](https://store.steampowered.com/app/985890/)**
 
 - **[Forza Horizon 5](https://store.steampowered.com/app/1551360/)**
+
+- **[Mario kart world](https://www.nintendo.com/us/store/products/mario-kart-world-switch-2/?srsltid=AfmBOooHw1hE1C-wqhv8WtI2xg0kA9kK-TstELrBw1aLMO-Yqq5iKYst)**
 
 - **Shadow of the Colossus**
 
